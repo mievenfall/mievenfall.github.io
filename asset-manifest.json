@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd287e3d.css",
-    "main.js": "/static/js/main.c8c7ca0e.js",
+    "main.css": "/static/css/main.36da7815.css",
+    "main.js": "/static/js/main.81151214.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.552f86e1450eb8ec4325.svg",
     "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
@@ -11,12 +11,12 @@
     "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.bd287e3d.css.map": "/static/css/main.bd287e3d.css.map",
-    "main.c8c7ca0e.js.map": "/static/js/main.c8c7ca0e.js.map",
+    "main.36da7815.css.map": "/static/css/main.36da7815.css.map",
+    "main.81151214.js.map": "/static/js/main.81151214.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd287e3d.css",
-    "static/js/main.c8c7ca0e.js"
+    "static/css/main.36da7815.css",
+    "static/js/main.81151214.js"
   ]
 }
