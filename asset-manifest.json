@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d61f13b.css",
-    "main.js": "/static/js/main.1f42f31d.js",
+    "main.css": "/static/css/main.15a7f56d.css",
+    "main.js": "/static/js/main.1d75d08b.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/splitit.png": "/static/media/splitit.4d763fa4251ace4e88fb.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.dfa68a19d60cb30762bb.png",
     "static/media/squareup.png": "/static/media/squareup.11f3b022dd5565b79ed5.png",
     "static/media/resumate.png": "/static/media/resumate.aefb63f1f9b3842dd133.png",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.552f86e1450eb8ec4325.svg",
     "static/media/ucla-logo.png": "/static/media/ucla-logo.2d09be88f1a4e6ecdf81.png",
     "static/media/quizcraft.png": "/static/media/quizcraft.0ace1e2528ec3472de35.png",
     "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
-    "static/media/profile-pic.jpg": "/static/media/profile-pic.317dd2e34cc45d078bd4.jpg",
     "static/media/Simple-Line-Icons.eot?v=2.4.0": "/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
     "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
     "static/media/sce-logo.png": "/static/media/sce-logo.eb5becfad8b13bbdf210.png",
@@ -19,12 +19,12 @@
     "static/media/usc-logo.png": "/static/media/usc-logo.4671a29459287181b710.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.4d61f13b.css.map": "/static/css/main.4d61f13b.css.map",
-    "main.1f42f31d.js.map": "/static/js/main.1f42f31d.js.map",
+    "main.15a7f56d.css.map": "/static/css/main.15a7f56d.css.map",
+    "main.1d75d08b.js.map": "/static/js/main.1d75d08b.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d61f13b.css",
-    "static/js/main.1f42f31d.js"
+    "static/css/main.15a7f56d.css",
+    "static/js/main.1d75d08b.js"
   ]
 }
