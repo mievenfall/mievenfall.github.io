@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.15a7f56d.css",
-    "main.js": "/static/js/main.1d75d08b.js",
+    "main.css": "/static/css/main.d94e7133.css",
+    "main.js": "/static/js/main.717847d3.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/splitit.png": "/static/media/splitit.4d763fa4251ace4e88fb.png",
     "static/media/profile-pic.png": "/static/media/profile-pic.dfa68a19d60cb30762bb.png",
@@ -17,14 +17,13 @@
     "static/media/cpp-logo.png": "/static/media/cpp-logo.9bc04d56c4a897e8c05f.png",
     "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
     "static/media/usc-logo.png": "/static/media/usc-logo.4671a29459287181b710.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.15a7f56d.css.map": "/static/css/main.15a7f56d.css.map",
-    "main.1d75d08b.js.map": "/static/js/main.1d75d08b.js.map",
+    "main.d94e7133.css.map": "/static/css/main.d94e7133.css.map",
+    "main.717847d3.js.map": "/static/js/main.717847d3.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15a7f56d.css",
-    "static/js/main.1d75d08b.js"
+    "static/css/main.d94e7133.css",
+    "static/js/main.717847d3.js"
   ]
 }
