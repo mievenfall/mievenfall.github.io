@@ -1,0 +1,90 @@
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.portfolio {
+  max-width:  70rem;
+  margin: 5rem 0;
+}
+
+.side {
+  position: fixed;
+  top: 5rem; /* Adjust this value based on your preference */
+  width: 16.875rem;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  position: fixed;
+  top: 28rem
+}
+
+
+
+.main {
+  margin-left: 16.875rem;
+  padding-left: 1.5rem;
+
+}
+
+.main h1 {
+  margin-bottom: 1rem;
+}
+
+.footer {
+  width: 100%;
+}
+
+
+@media screen and (max-width: 1440px) {
+  .portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.5rem 4rem 0.5rem;
+  }
+
+  .main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position:relative;
+  }
+  
+  .side {
+    position: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+  }
+
+  .navbar {
+    position: sticky;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;  
+    z-index: 100;
+    top: 0;
+    height: 3.25rem;
+    width: 100%;
+    background-color: var(--body-color);
+  }
+  
+  .main {
+    margin: 0;
+    padding: 0 1rem;
+  }
+
+  .main h1 {
+    font-size: var(--h1-font-size);
+    margin: 0;
+  }
+}
