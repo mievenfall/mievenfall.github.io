@@ -61,7 +61,7 @@ const Projects = () => {
           <a  href="https://github.com/CP-AndriodDev/Split-it/" target="blank"><div className="edu-info tab proj-info" id="splitit">
             <div id="proj-img"><img src={Splitit} alt="" className="proj__img" /></div>
             <div className="school proj">
-              <h3>Spit It</h3>
+              <h3>Split It</h3>
               <div className="add-info tab">Integrated UI designs into the Split-it project using Kotlin. Developed robust calculating functionalities to enhance performance and user experience. Collaborated closely with the team to improve overall quality and usability of the app.</div>
               <div className="softwares tab">
                 <div id="software">Kotlin</div>

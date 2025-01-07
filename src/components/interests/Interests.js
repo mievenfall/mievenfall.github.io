@@ -6,11 +6,13 @@ const Interests = () => {
     <div className="intro tab">
       <h2 style={{color: "var(--purple-color)"}}>Interests</h2>
       <div className="interest-container">
-        <div>1</div>
-
-        <div>2</div>
-
-        <div>3</div>
+        <ul className="interest-list tab">
+          <li>Machine Learning</li>
+          <li>Natural Language Processing</li>
+          <li>Computer Vision</li>
+          <li>Data Analytics</li>
+          <li>Cognitive Science</li>
+        </ul>
 
       </div>
     </div>

@@ -25,6 +25,9 @@ input[type="checkbox"] {
   font-weight: var(--font-medium);
 }
 
+.nav__item.active .nav__text {
+  font-weight: var(--font-medium);
+}
 
 
 @media screen and (max-width: 1440px) {
@@ -36,6 +39,8 @@ input[type="checkbox"] {
   
     .nav__menu {
       position: relative;
+      padding-bottom: 1rem;
+      background-color: var(--body-color);
     }
   
     label {
@@ -75,7 +80,7 @@ input[type="checkbox"] {
     }
   
     .last {
-      padding-bottom: 1rem;
+      /* margin-bottom: 1rem; */
     }
   
     #touch {
